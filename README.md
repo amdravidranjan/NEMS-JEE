@@ -55,23 +55,20 @@ Feel completely free to clone, fork, and contribute to this project. We'd love t
 Here's a quick look at how the application turned out.
 
 ### Authentication & Registration
-<p align="center">
-  <img src="screenshots/entry.png" alt="Landing Page" width="45%">
-  <img src="screenshots/registration.png" alt="Registration Step 1" width="45%">
-</p>
+| Landing Page | Registration |
+| :---: | :---: |
+| ![Landing Page](./screenshots/entry.png) | ![Registration Step 1](./screenshots/registration.png) |
 
 ### The Candidate Experience
-<p align="center">
-  <img src="screenshots/Dashboard.png" alt="Dashboard" width="45%">
-  <img src="screenshots/ExamPortal.png" alt="Exam Portal" width="45%">
-</p>
-<p align="center">
-  <img src="screenshots/allotment.png" alt="Seat Allotment Results" width="45%">
-  <img src="screenshots/SeatMatrix.png" alt="Seat Matrix View" width="45%">
-</p>
+| Candidate Dashboard | Live Exam Portal |
+| :---: | :---: |
+| ![Dashboard](./screenshots/Dashboard.png) | ![Exam Portal](./screenshots/ExamPortal.png) |
+
+| Seat Allotment Results | Seat Matrix View |
+| :---: | :---: |
+| ![Seat Allotment](./screenshots/allotment.png) | ![Seat Matrix](./screenshots/SeatMatrix.png) |
 
 ### The Administrator Experience
-<p align="center">
-  <img src="screenshots/AdminDashboard_admin.png" alt="Admin Overview" width="45%">
-  <img src="screenshots/Sessions_admin.png" alt="Admin Exam Sessions" width="45%">
-</p>
+| Admin Overview | Database Exam Sessions |
+| :---: | :---: |
+| ![Admin Overview](./screenshots/AdminDashboard_admin.png) | ![Admin Exam Sessions](./screenshots/Sessions_admin.png) |
