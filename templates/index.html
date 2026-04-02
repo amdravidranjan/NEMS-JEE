@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JEE Allotment System</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<!-- ── Toast Container ─────────────────────────────────────── -->
+<div id="toast-container"></div>
+
+<!-- ── Auth Pages (outside shell) ──────────────────────────── -->
+<div id="page-landing" style="display:none"></div>
+<div id="page-login"   style="display:none"></div>
+<div id="page-register" style="display:none"></div>
+
+<!-- ── Main App Shell ──────────────────────────────────────── -->
+<div id="shell" style="display:none">
+
+  <!-- Sidebar -->
+  <aside id="sidebar">
+    <div class="logo">
+      <h1>JEE ALLOTMENT<br>SYSTEM</h1>
+      <p>NTA · JoSAA Portal</p>
+    </div>
+
+    <nav id="nav-links">
+      <!-- filled by JS based on role -->
+    </nav>
+
+    <div class="user-bar">
+      <div class="uname" id="sb-name">—</div>
+      <div class="urole" id="sb-role">—</div>
+      <button id="btn-logout">Sign Out</button>
+    </div>
+  </aside>
+
+  <!-- Main -->
+  <div id="main">
+    <div id="topbar">
+      <span class="page-title" id="topbar-title">Dashboard</span>
+      <span class="breadcrumb" id="topbar-breadcrumb">JEE Allotment System</span>
+    </div>
+    <div id="app">
+      <div class="loading">Loading</div>
+    </div>
+  </div>
+
+</div>
+
+<script src="/static/app.js"></script>
+</body>
+</html>

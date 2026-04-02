@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+.env
+.idea/
+.vscode/
+assignment2final.docx
+docs/
+.gemini/
+.claude/
+*.log
