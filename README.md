@@ -32,9 +32,10 @@ If you want to spin this up on your local machine, we've written a detailed step
 
 [![Setup Guide](https://img.shields.io/badge/Read%20The-SETUP_GUIDE-blue?style=for-the-badge)](SETUP.md)
 
-If you'd like to look under the hood at the 16 tables, the stored procedures, and the Oracle DB triggers making this project tick, please check out our detailed technical teardown!
+If you'd like to look under the hood at the technical details, the 16 tables, the stored procedures, and the Oracle DB triggers making this project tick, please check out our detailed technical teardown!
 
 [![Technical Details](https://img.shields.io/badge/Read%20The-TECHNICAL__DETAILS-f5a623?style=for-the-badge)](TECHNICAL_DETAILS.md)
+[![Project Features](https://img.shields.io/badge/Read%20The-FEATURES-success?style=for-the-badge)](FEATURES.md)
 
 ---
 
