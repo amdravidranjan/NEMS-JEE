@@ -34,7 +34,7 @@ If you want to spin this up on your local machine, we've written a detailed step
 
 If you'd like to look under the hood at the 16 tables, the stored procedures, and the Oracle DB triggers making this project tick, please check out our detailed technical teardown!
 
-[![Technical Details](https://img.shields.io/badge/Read%20The-TECHNICAL__DETAILS-darkred?style=for-the-badge)](TECHNICAL_DETAILS.md)
+[![Technical Details](https://img.shields.io/badge/Read%20The-TECHNICAL__DETAILS-f5a623?style=for-the-badge)](TECHNICAL_DETAILS.md)
 
 ---
 
@@ -57,18 +57,18 @@ Here's a quick look at how the application turned out.
 ### Authentication & Registration
 | Landing Page | Registration |
 | :---: | :---: |
-| ![Landing Page](./screenshots/entry.png) | ![Registration Step 1](./screenshots/registration.png) |
+| ![Landing Page](./Screenshots/entry.png) | ![Registration Step 1](./Screenshots/registration.png) |
 
 ### The Candidate Experience
 | Candidate Dashboard | Live Exam Portal |
 | :---: | :---: |
-| ![Dashboard](./screenshots/Dashboard.png) | ![Exam Portal](./screenshots/ExamPortal.png) |
+| ![Dashboard](./Screenshots/Dashboard.png) | ![Exam Portal](./Screenshots/ExamPortal.png) |
 
 | Seat Allotment Results | Seat Matrix View |
 | :---: | :---: |
-| ![Seat Allotment](./screenshots/allotment.png) | ![Seat Matrix](./screenshots/SeatMatrix.png) |
+| ![Seat Allotment](./Screenshots/allotment.png) | ![Seat Matrix](./Screenshots/SeatMatrix.png) |
 
 ### The Administrator Experience
 | Admin Overview | Database Exam Sessions |
 | :---: | :---: |
-| ![Admin Overview](./screenshots/AdminDashboard_admin.png) | ![Admin Exam Sessions](./screenshots/Sessions_admin.png) |
+| ![Admin Overview](./Screenshots/AdminDashboard_admin.png) | ![Admin Exam Sessions](./Screenshots/Sessions_admin.png) |
